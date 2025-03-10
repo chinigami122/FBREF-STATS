@@ -1,5 +1,5 @@
 # FBREF Scraper
-![Neutral Creative Professional LinkedIn Article Cover Image (1)](https://github.com/chinigami122/Fasntasy-pr-league-project/blob/master/1740579966598.jpeg)
+![Neutral Creative Professional LinkedIn Article Cover Image (1)](https://github.com/chinigami122/Fasntasy-pr-league-project/blob/master/Extract.png)
 # Description
 This project is a football statistics data pipeline that collects match data, processes it, and visualizes key metrics. It uses Python for data processing and visualization and stores the collected data in a MySQL database using SQLAlchemy.
 
