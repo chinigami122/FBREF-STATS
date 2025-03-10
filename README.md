@@ -1,3 +1,5 @@
+# FBREF Scraper
+![Alt text](images/1740579966598.jpeg)
 # Description
 This project is a football statistics data pipeline that collects match data, processes it, and visualizes key metrics. It uses Python for data processing and visualization and stores the collected data in a MySQL database using SQLAlchemy.
 
